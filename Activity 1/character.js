@@ -6,7 +6,7 @@ class Character{
         this.cloth = cloth;
         this.skinColour = skinColour;
     }
-    changeFacialexp(){
-        
+    changeCloth(){
+
     }
 }
